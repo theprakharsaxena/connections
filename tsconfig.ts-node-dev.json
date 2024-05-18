@@ -1,0 +1,6 @@
+{
+  "respawn": true,
+  "transpileOnly": true,
+  "ignore": ["node_modules", "dist"],
+  "debounce": 200
+}
